@@ -1,6 +1,7 @@
 # articles_app
 
-A new Flutter project.
+Article app created with Flutter, using flutter_bloc, retrofit, drift, rxdart
+![Screenshot from the app](/screenshot//screenshot.png?raw=true "Screenshot")
 
 ## Getting Started
 
